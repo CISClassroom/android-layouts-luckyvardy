@@ -191,6 +191,7 @@ android:layout_above="@id/editText6"
             android:textSize="20sp"
             android:textStyle="bold" />
 
+
         <TextView
             android:id="@+id/textView1"
             android:layout_width="wrap_content"
